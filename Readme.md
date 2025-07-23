@@ -1,19 +1,11 @@
-https://github.com/amd/InfinityHub-CI/tree/main/fortran
- support linux
+- Windows Fortran Dev: Intel oneAPI HPC Toolkit
+https://drive.google.com/file/d/1WXQ3cWV6GJyMHbAuTvl6jCjQDN4wE2lp/view?usp=drive_link
+https://drive.google.com/file/d/1NTR9ySQZ486Kw07X470r0lrg1p_L1ftM/view?usp=drive_link
+https://drive.google.com/file/d/10dj_0IbgFWMqpQN3svnMuMNukndcaKxr/view?usp=drive_link
+https://drive.google.com/file/d/19HV3w97liZb-zxygIOq0tKKC1h5Op-od/view?usp=drive_link
 
-- Bundled with CUDA versions 12.6 and 11.8 (Linux x86_64 tar)
-    - Downloads: https://drive.google.com/file/d/1ZG0jLmCM4Yv_47Askj3ER_sGETDiSAjn/view?usp=sharing
-    - Installation Instructions
+- Fortran Dev Guide:
+https://drive.google.com/file/d/1H4jz4digiqhDqIUtgYfaxhNp2ttxE_t6/view?usp=sharing
 
-``` bash
-wget https://developer.download.nvidia.com/hpc-sdk/25.1/nvhpc_2025_251_Linux_x86_64_cuda_multi.tar.gz
-tar xpzf nvhpc_2025_251_Linux_x86_64_cuda_multi.tar.gz
-nvhpc_2025_251_Linux_x86_64_cuda_multi/install
-```
-
-- Windows: Intel oneAPI HPC Toolkit
-    - https://drive.google.com/drive/folders/1f9QMoMXidGL_g8U1OiWWCSZuFWzbe-7k?usp=drive_link
-- Linux:
-    - https://drive.google.com/drive/folders/1u99buSs1CQUMx7gSXq5m62J0RWH7MNc2?usp=drive_link
-- Documentation
-    - https://drive.google.com/file/d/1blOc_aXVEf0fCrTlzbKG9d7_2tbBj0qX/view?usp=sharing
+- Fortran Dev Reference:
+https://drive.google.com/file/d/1xQREbf60Y4WSyK9ToghkOQlSZVXCncAu/view?usp=sharing
