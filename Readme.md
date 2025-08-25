@@ -1,11 +1,9 @@
-- Windows Fortran Dev: Intel oneAPI HPC Toolkit
-https://drive.google.com/file/d/1WXQ3cWV6GJyMHbAuTvl6jCjQDN4wE2lp/view?usp=drive_link
-https://drive.google.com/file/d/1NTR9ySQZ486Kw07X470r0lrg1p_L1ftM/view?usp=drive_link
-https://drive.google.com/file/d/10dj_0IbgFWMqpQN3svnMuMNukndcaKxr/view?usp=drive_link
-https://drive.google.com/file/d/19HV3w97liZb-zxygIOq0tKKC1h5Op-od/view?usp=drive_link
+- Linux: NVIDIA HPC Toolkit
+https://drive.google.com/drive/folders/1xGb3usdHDzq8z8dAyBDDmZufeloWEjGr?usp=drive_link
 
-- Fortran Dev Guide:
-https://drive.google.com/file/d/1H4jz4digiqhDqIUtgYfaxhNp2ttxE_t6/view?usp=sharing
+- Installation Instructions
 
-- Fortran Dev Reference:
-https://drive.google.com/file/d/1xQREbf60Y4WSyK9ToghkOQlSZVXCncAu/view?usp=sharing
+``` bash
+tar xpzf nvhpc_2025_251_Linux_x86_64_cuda_multi.tar.gz
+nvhpc_2025_251_Linux_x86_64_cuda_multi/install
+```
